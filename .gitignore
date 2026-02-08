@@ -1,0 +1,40 @@
+# Build artifacts
+build/
+bin/
+obj/
+*.exe
+*.obj
+*.o
+*.pdb
+*.lib
+*.dll
+*.exp
+*.ilk
+
+# Dependency directories
+node_modules/
+dist/
+
+# IDE settings
+.vs/
+.vscode/
+*.swp
+*.swo
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.filters
+
+# Logs and temporary files
+*.log
+test_output.txt
+tmp/
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Programming languages specific
+*.pyc
+__pycache__/
